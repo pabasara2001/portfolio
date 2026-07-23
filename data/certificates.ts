@@ -1,0 +1,58 @@
+import { Certificate } from "@/types";
+
+export const certificates: Certificate[] = [
+  {
+    id: "meta-frontend",
+    title: "Meta Front-End Developer Professional Certificate",
+    issuer: "Meta (Coursera)",
+    date: "2024",
+    credentialId: "META-FE-2024-0193",
+    credentialUrl: "#",
+    category: "Frontend Development",
+  },
+  {
+    id: "aws-cloud-practitioner",
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services",
+    date: "2024",
+    credentialId: "AWS-CCP-2024-8841",
+    credentialUrl: "#",
+    category: "Cloud",
+  },
+  {
+    id: "js-algorithms",
+    title: "JavaScript Algorithms and Data Structures",
+    issuer: "freeCodeCamp",
+    date: "2023",
+    credentialId: "FCC-JSADS-2023-5521",
+    credentialUrl: "#",
+    category: "Programming",
+  },
+  {
+    id: "responsive-web-design",
+    title: "Responsive Web Design",
+    issuer: "freeCodeCamp",
+    date: "2023",
+    credentialId: "FCC-RWD-2023-3312",
+    credentialUrl: "#",
+    category: "Frontend Development",
+  },
+  {
+    id: "google-uxdesign",
+    title: "Google UX Design Professional Certificate",
+    issuer: "Google (Coursera)",
+    date: "2023",
+    credentialId: "GOOG-UX-2023-7742",
+    credentialUrl: "#",
+    category: "UI/UX Design",
+  },
+  {
+    id: "sql-for-data",
+    title: "SQL for Data Science",
+    issuer: "University of California, Davis (Coursera)",
+    date: "2022",
+    credentialId: "UCD-SQL-2022-1129",
+    credentialUrl: "#",
+    category: "Database",
+  },
+];
