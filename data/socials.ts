@@ -12,7 +12,7 @@ export const socials: SocialLink[] = [
   },
   {
     id: "linkedin",
-    name: "LinkedIn",
+    name: "LinkedI n",
     url: "https://linkedin.com/in/pabasara-wanamalee",
     icon: "Linkedin",
   },
